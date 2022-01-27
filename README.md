@@ -28,14 +28,6 @@ The platform is a decentralized social media something similar to twitter but to
 
 ## Tech stack Used
 - Ethereum
-- IPFS
-- Web3js
-- HTML
-- CSS
-- Bootstrap
-- Javascript
-- Jquery
-- Truffle
 
 ## Future Work
 - Use Meta transactions(gasless transactions) to make the platform gas free for users
@@ -66,11 +58,6 @@ The platform is a decentralized social media something similar to twitter but to
 
 ### Smart Contracts
 1. Run `npm i` to install dependencies.
-4. Run `ganache-cli` to start a local chain.
-3. In the projects root directory, run `truffle console` to interact with the porject.
-4. To compile contracts run `truffle compile`
-5. To deploy run `truffle migrate` 
-6. To test run `truffle test` 
 
 ### Frontend/To Start Local Server
 1. In the projects root directory, run `npm start`
